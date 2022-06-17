@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Erik161/RestApi-Nodjs-and-Mysql#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.1"
   }
 }
